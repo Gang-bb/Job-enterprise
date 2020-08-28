@@ -11,7 +11,7 @@ PS：项目仅是对uni-app简单的学习项目
 ### :jack_o_lantern:欢迎交流：QQ:949526365
 
 
-### 项目截图
+### 项目截图(H5端)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200828191020884.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM3MTMyNDk1,size_16,color_FFFFFF,t_70#pic_center)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200828191020954.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM3MTMyNDk1,size_16,color_FFFFFF,t_70#pic_center)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200828191020955.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM3MTMyNDk1,size_16,color_FFFFFF,t_70#pic_center)
