@@ -8,7 +8,7 @@
  [Job-back-end](https://github.com/Gang-bb/Job-back-end)
 
 PS：项目仅是对uni-app简单的学习项目
-### 欢迎交流：QQ:949526365
+### :jack_o_lantern:欢迎交流：QQ:949526365
 
 
 ### 项目截图
