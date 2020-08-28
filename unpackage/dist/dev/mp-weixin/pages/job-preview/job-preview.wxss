@@ -1,0 +1,116 @@
+
+.base{
+	color: #333333;
+	background: #FFFFFF;
+	padding: 30rpx 25rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+}
+.top{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.tittle{
+	color: #DAA520;
+	font-size: 17px;
+}
+.tittle-right{
+	font-size: 14px;
+	padding: 5rpx 15rpx;
+	position: relative;
+	top: 20rpx;
+}
+.ing{
+	border: 3rpx solid #19CAAD;
+	background: rgba(25,202,173,0.2);
+	color: #19CAAD;
+}
+.end{
+	border: 3rpx solid #F4606C;
+	background: rgba(244,96,108,0.2);
+	color: #F4606C;
+}
+.place{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	margin-top: 25rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.dw{
+	height: 25rpx;
+	width: 25rpx;
+}
+.place-word{
+	margin-left: 10rpx;
+	color: #999999;
+	font-size: 12px;
+}
+.line{
+	height: 3rpx;
+	width: 100%;
+	background: #D9D9D9;
+	margin: 15rpx 0 0 0;
+}
+.item{
+	margin-top: 15rpx;
+	font-size: 15px;
+}
+.item-tittle{
+	color: #999999;
+}
+.item-value{
+	margin-left: 8rpx;
+	text-align: justify;
+	word-break: break-all;
+}
+.job-content{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	margin-top: 25rpx;
+	/* border: 3rpx solid #D9D9D9; */
+}
+.job-content-icon{
+	width: 15rpx;
+	height: 15rpx;
+	border-radius: 50%;
+	background: #DAA520;
+	-webkit-align-self: center;
+	        align-self: center;
+}
+.job-content-tittle{
+	color: #999999;
+	font-size: 16px;
+	margin-left: 8rpx;
+}
+.job-content-value{
+	font-size: 14px;
+	text-align: justify;
+	word-break: break-all;
+	margin-top: 15rpx;
+}
+

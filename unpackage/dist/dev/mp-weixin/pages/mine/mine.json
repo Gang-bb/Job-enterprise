@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "",
+  "navigationBarBackgroundColor": "#E6CEAC",
+  "usingComponents": {
+    "h-form-alert": "/components/h-form-alert/h-form-alert"
+  }
+}

@@ -1,0 +1,107 @@
+
+.feedbackbase{
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	background: rgba(244,244,244,0.6);
+	color: #333;
+    height: 100vh;
+}
+.email{
+  background: #ffffff;
+  padding: 20rpx 30rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  font-size: 15px;
+}
+.email-input{
+  padding-left: 40rpx;
+  -webkit-align-self: center;
+          align-self: center;
+  font-size: 15px;
+}
+.content{
+  margin-top: 25rpx;
+  background: #ffffff;
+  padding: 20rpx 30rpx 10rpx 30rpx;
+  font-size: 15px;
+}
+.type{
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.choosetype{
+  padding-left: 40rpx;
+  font-size: 15px;
+  color: #E6CEAC;
+}
+.xiangxia{
+  height: 30rpx;
+  width: 30rpx;
+  margin-left: 340rpx;
+}
+.line{
+  /* background: gainsboro;
+  height: 3rpx;
+  width: 100%;
+  margin-left: 30rpx;
+  margin-right: 30rpx; */
+}
+.textarea-data{
+  background: #ffffff;
+  height: 300rpx;
+  width: 100%;
+  margin-top: 20rpx;
+}
+.currentWordNumber {
+  font-size: 15px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: reverse;
+  -webkit-flex-direction: row-reverse;
+          flex-direction: row-reverse;
+  color: #888;
+}
+.button{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	width: 580rpx;
+	height: 82rpx;
+	color: #ffffff;
+	background: #E6CEAC;
+    border-radius: 10rpx;
+	margin: 50rpx 0;
+	-webkit-align-self: center;
+	        align-self: center;
+}
+.buuton-click{
+	opacity: 0.9;
+	background: rgba(230,206,172,0.9);
+}
+

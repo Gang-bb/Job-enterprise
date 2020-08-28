@@ -1,0 +1,162 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path" : "pages/login/login",
+			"style" : {
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "大学生兼职系统",
+				"navigationBarBackgroundColor": "#E6CEAC"
+			}
+		},
+		{
+		    "path" : "pages/job-preview/job-preview",
+		    "style" : {}
+		},{
+		    "path" : "pages/index-admin/index-admin",
+		    "style" : {}
+		}
+		,{
+		    "path" : "pages/stu-verify/stu-verify",
+		    "style" : {
+				"navigationBarTitleText": "人员审核"
+			}
+		},{
+		    "path" : "pages/mine/mine",
+		    "style" : {
+				"navigationBarTitleText": "",
+				"navigationBarBackgroundColor": "#E6CEAC"
+			}
+		},
+		{
+            "path" : "pages/mine/myrecruit/myrecruit",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/modify-paaword/modify-paaword",
+            "style": {
+            	"navigationBarTitleText": "修改密码",
+            	"navigationBarBackgroundColor": "#E6CEAC"
+            }
+        }
+        ,{
+            "path" : "pages/feedback/feedback",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/myjob/myjob",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/myinfo/myinfo",
+            "style": {
+            	"navigationBarTitleText": "我的资料",
+            	"navigationBarBackgroundColor": "#E6CEAC"
+            }
+        }
+        ,{
+            "path" : "pages/job-release/job-release",
+            "style": {
+            	"navigationBarTitleText": "工作发布",
+            	"navigationBarBackgroundColor": "#E6CEAC"
+            }
+        }
+        ,{
+            "path" : "pages/job-release/job-release-two",
+            "style": {
+            	"navigationBarTitleText": "工作发布",
+            	"navigationBarBackgroundColor": "#E6CEAC"
+            }
+        }
+        ,{
+            "path" : "pages/job-release/job-release-three",
+            "style": {
+            	"navigationBarTitleText": "工作发布",
+            	"navigationBarBackgroundColor": "#E6CEAC"
+            }
+        }
+        ,{
+            "path" : "pages/job-release/job-release-four",
+            "style": {
+            	"navigationBarTitleText": "工作发布",
+            	"navigationBarBackgroundColor": "#E6CEAC"
+            }
+        }
+        ,{
+            "path" : "pages/job-release/job-release-five/job-release-five",
+            "style": {
+            	"navigationBarTitleText": "工作发布",
+            	"navigationBarBackgroundColor": "#E6CEAC"
+            }
+        }
+        ,{
+            "path" : "pages/stu-verify/stu-detail",
+            "style": {
+            	"navigationBarTitleText": "审核详情",
+            	"navigationBarBackgroundColor": "#E6CEAC"
+            }
+        }
+        
+        ,{
+            "path" : "pages/job-detail/job-detail",
+            "style": {
+            	"navigationBarTitleText": "工作详情",
+            	"navigationBarBackgroundColor": "#E6CEAC"
+            }
+        }
+        ,{
+            "path" : "pages/verify/verify",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/test/test",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/login/register",
+            "style": {
+            	"navigationBarTitleText": "账号注册",
+            	"navigationBarBackgroundColor": "#E6CEAC"
+            }
+        }
+        ,{
+            "path" : "pages/result/result",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/stu_info/stu_info",
+            "style" : {}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "大学生兼职系统",
+		"navigationBarBackgroundColor": "#E6CEAC",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar":{
+		"color":"#999999",
+		"selectedColor":"#E6CEAC",
+		"borderStyle":"white",
+		"backgroundColor":"#FFFFFF",
+		"list":[
+			{
+				"pagePath":"pages/index/index",
+				"text":"首页",
+				"iconPath":"static/sy2.png",
+				"selectedIconPath":"static/sy.png"
+				
+			},
+			{
+				"pagePath":"pages/mine/mine",
+				"text":"我的",
+				"iconPath":"static/wode.png",
+				"selectedIconPath":"static/wode2.png"
+			}
+		]
+	}
+}

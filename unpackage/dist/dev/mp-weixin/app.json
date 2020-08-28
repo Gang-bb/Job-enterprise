@@ -1,0 +1,52 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/job-preview/job-preview",
+    "pages/index-admin/index-admin",
+    "pages/stu-verify/stu-verify",
+    "pages/mine/mine",
+    "pages/login/login",
+    "pages/mine/myrecruit/myrecruit",
+    "pages/modify-paaword/modify-paaword",
+    "pages/feedback/feedback",
+    "pages/myjob/myjob",
+    "pages/myinfo/myinfo",
+    "pages/job-release/job-release",
+    "pages/job-release/job-release-two",
+    "pages/job-release/job-release-three",
+    "pages/job-release/job-release-four",
+    "pages/job-release/job-release-five/job-release-five",
+    "pages/stu-verify/stu-detail",
+    "pages/job-detail/job-detail",
+    "pages/verify/verify"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "大学生兼职系统",
+    "navigationBarBackgroundColor": "#E6CEAC",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#E6CEAC",
+    "borderStyle": "white",
+    "backgroundColor": "#FFFFFF",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/sy2.png",
+        "selectedIconPath": "static/sy.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的",
+        "iconPath": "static/wode.png",
+        "selectedIconPath": "static/wode2.png"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap73.json"
+}

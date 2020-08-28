@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "人员审核",
+  "usingComponents": {
+    "tui-tabs": "/components/tui-tabs/tui-tabs"
+  }
+}
